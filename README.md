@@ -75,15 +75,28 @@
 
 ### mobile design <br>
 
-<img src="https://github.com/0xabdul/Time-Traking-Dashboard/assets/119418867/7c44f906-34ee-4281-89ca-9efbd142bfe0" height="500px"></img><br>
+<img src="https://github.com/0xabdul/Time-Traking-Dashboard/assets/119418867/7c44f906-34ee-4281-89ca-9efbd142bfe0" height="500px"></img><br><br>
 
 
 
 ## live site url 🚦 <br>
 
 <ul>
-  <li><a href="">CLICK HERE</a></li>
-</ul>
+  <li><a href="https://0xabdul.github.io/Time-Traking-Dashboard/">CLICK HERE</a></li>
+  
+   <li><a href="">preview site</a></li>
+</ul><br>
+
+
+## Author<br>
+- Frontend Mentor - [@oxabdul](https://www.frontendmentor.io/profile/0xAbdul)<br>
+
+
+
+## Acknowledgments<br>
+<ul>
+  <li>Inspiration by <a href="https://www.frontendmentor.io/home">Frontend Mentor</a></li>
+
 
 
 
