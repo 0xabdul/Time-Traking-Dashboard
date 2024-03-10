@@ -84,7 +84,7 @@
 <ul>
   <li><a href="https://0xabdul.github.io/Time-Traking-Dashboard/">CLICK HERE</a></li>
   
-   <li><a href="">preview site</a></li>
+ <li><a href="https://0xabdul.github.io/Time-Traking-Dashboard">Preview site</a></li>
 </ul><br>
 
 
