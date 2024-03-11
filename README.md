@@ -71,11 +71,11 @@
 
 ### tablet design <br>
 
-<img src="https://github.com/0xabdul/Time-Traking-Dashboard/assets/119418867/5d971a63-e4a6-4f42-a183-befb025aba8f" height="500px"></img><br><br>
+<img src="https://github.com/0xabdul/Time-Traking-Dashboard/assets/119418867/5d971a63-e4a6-4f42-a183-befb025aba8f" height="350px"></img><br><br>
 
 ### mobile design <br>
 
-<img src="https://github.com/0xabdul/Time-Traking-Dashboard/assets/119418867/7c44f906-34ee-4281-89ca-9efbd142bfe0" height="500px"></img><br><br>
+<img src="https://github.com/0xabdul/Time-Traking-Dashboard/assets/119418867/7c44f906-34ee-4281-89ca-9efbd142bfe0" height="350px"></img><br><br>
 
 
 
